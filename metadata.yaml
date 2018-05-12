@@ -1,0 +1,43 @@
+_repo: On-Union-with-God_36402
+_version: 0.1.0
+alternative_title: De adhaerendo Deo. English
+contributor:
+  dubious_author:
+    agent_name: Albertus, Magnus, Saint
+    aliases:
+    - Albert, the Great, Saint
+    - Magnus, Albertus
+    deathdate: 1280
+    gutenberg_agent_id: '38247'
+    url: http://www.gutenberg.org/2009/agents/38247
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: The attribution to Albert the Great is no longer considered correct.
+gutenberg_issued: '2011-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36402'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiritual life -- Christianity -- Early works to 1800'
+- !lcsh 'God (Christianity) -- Early works to 1800'
+- !lcc 'BX'
+- !lcsh 'Mysticism -- Catholic Church -- Early works to 1800'
+tableOfContents: 'Preface -- Of the highest perfection which man can reach in this
+  life -- How you may despise all things and cling to Christ alone -- Perfection in
+  this life -- That our concern must be with the understanding and not with the senses
+  -- Of purity of heart, which is to be sought above all else -- That a truly devout
+  man must seek God in purity of mind and heart -- Of the practice of interior recollection
+  -- That a truly devout man should commit himself to God in all things -- The contemplation
+  of God is to be preferred above all other exercises -- That we should desire the
+  union of our will with God -- In what manner we should resist temptation and endure
+  trials -- The power of the love of God -- Of the nature and advantages of prayer;
+  of interior recollection -- That everything should be judged according to our conscience
+  -- On the contempt of self: how it is acquired: its profit to the soul -- Of the
+  providence of God, which watches over all things.'
+title: On Union with God
+url: http://www.gutenberg.org/ebooks/36402
